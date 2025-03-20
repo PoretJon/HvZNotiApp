@@ -1,11 +1,11 @@
 # HvZ Noti Application
 
-This application is my attempt to stop myself from staring at my school's Humans Vs Zombies website while im in class by having notifications sent to both my discord account and my phone. 
+This application is my attempt to stop myself from staring at my school's Humans Vs Zombies website while I'm in class by having notifications sent to both my discord account and my phone. 
 
 ## Main Goals
 This application is relatively simple and requires performs 3 main tasks:
 1. Maintain an up-to-date human and zombie count obtained from the website (https://hvzrit.club).
-2. Host that information in a JSON that is obtainable through a cURL request
+2. Host that information in a JSON that is obtainable through a curl or rest request
 3. Send notifications to my discord account when certain thresholds are reached (50/50 split of humans and zombies, zombie majority, etc.)
 
 ## Tech Stack
